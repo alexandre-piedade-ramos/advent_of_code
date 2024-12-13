@@ -1,0 +1,66 @@
+64599 31 674832 2659361 1 0 8867 321
+
+def v3():
+    if val is 0:
+     becomes 1:
+    if len(val) is even:
+        splits in two
+    if len(val) is odd:
+        adds 3 digits (0) #2.024*10^3
+        #still odd
+        if len(2.024 * val) > len(val)
+            becomes even
+        val * 2.024^n where n is the number of times val will still be odd
+        n: log10(val * 2.024^n) >=  log10(val*10)
+            val (2.024^n - 10)>0
+
+
+X1 in [1, 1.206058782]
+X2 in ]1.206058782, 2.441062976]
+X3 in ]2.441062976, 4.940711462]
+
+if val is 0:
+    val=1
+if len(val) is even:  
+    splits
+if len(val) is odd:
+    if val/(10^floor(log10(val))) in X1:
+
+1
+2024
+20 24
+2 0 2 4
+4098 1 4098 9196
+40 98 2024 40 98 91 96
+4 0 9 8 20 24 4 0 9 8 9 1 9 6
+
+1,6 = 14
+2024,5 = 14
+20,4 =6
+
+20
+2   0
+4048    1
+40  48  2024
+4 0 4 8 20 24
+
+                                rec (20, 4)
+                rec (2, 3)                      rec (0, 3)
+                rec (4048, 2)                   rec (1, 2)
+        rec (40, 1)         rec (48, 1)         rec (2024, 1)
+rec (4, 0)  rec (0, 0)  rec (4, 0)  rec (8, 0)  rec (20, 0) rec (24, 0)
+
+
+
+
+
+
+
+
+
+rec (0, 2)
+rec (1, 1)
+rec (2024, 0)
+rec (0, 1)
+rec (1, 0)
+rec (0, 0)
