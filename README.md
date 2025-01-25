@@ -1,1 +1,31 @@
-### Solutions for advent of code problems.
+🎄 [**Advent of Code**](https://adventofcode.com) is a holiday-themed coding event with daily challenges from December 1st to 25th. Perfect for practicing algorithms, problem-solving, and having fun with programming during the festive season. 🎁
+
+### Challenges Overview:
+
+| Day   | Challenge Name          | Part 1 Stars | Part 2 Stars | Languages Used        |
+|-------|-------------------------|--------------|--------------|-----------------------|
+| [Day 1](https://adventofcode.com/2024/day/1) | Historian Hysteria | ⭐️ | ⭐️ | Python           |
+| [Day 2](https://adventofcode.com/2024/day/2) | Red-Nosed Reports   | ⭐️ | ⭐️ | Python           |
+| [Day 3](https://adventofcode.com/2024/day/3) | Mull It Over         | ⭐️ | ⭐️ | Python   |
+| [Day 4](https://adventofcode.com/2024/day/4) | Ceres Search         | ⭐️ | ⭐️ | Python   |
+| [Day 5](https://adventofcode.com/2024/day/5) | Print Queue          | ⭐️ | ⭐️ | Python   |
+| [Day 6](https://adventofcode.com/2024/day/6) | Guard Gallivant      | ⭐️ | ⭐️ | Python   |
+| [Day 7](https://adventofcode.com/2024/day/7) | Bridge Repair        | ⭐️ | ⭐️ | Python        |
+| [Day 8](https://adventofcode.com/2024/day/8) | Resonant Collinearity | ⭐️ | ⭐️ | Python        |
+| [Day 9](https://adventofcode.com/2024/day/9) | Disk Fragmenter     | ⭐️ | ⭐️ | Python |
+| [Day 10](https://adventofcode.com/2024/day/10) | Hoof It    | ⭐️ | ⭐️ | Python |
+| [Day 11](https://adventofcode.com/2024/day/11) | Plutonian Pebbles    | ⭐️ | ⭐️ | Python |
+| [Day 12](https://adventofcode.com/2024/day/12) | Garden Groups    | ⭐️ | ⭐️ | Python |
+| [Day 13](https://adventofcode.com/2024/day/13) | Claw Contraption    | ⭐️ | ⭐️ | Python |
+| [Day 14](https://adventofcode.com/2024/day/14) | Restroom Redoubt    | ⭐️ | ⭐️ | Python |
+| [Day 15](https://adventofcode.com/2024/day/15) | Warehouse Woes    | ⭐️ | ⭐️ | Python |
+| [Day 16](https://adventofcode.com/2024/day/16) | Reindeer Maze    | ⭐️ | ⭐️ | Python |
+| [Day 17](https://adventofcode.com/2024/day/17) | Chronospatial Computer    | ⭐️ | ⭐️ | Python |
+| [Day 18](https://adventofcode.com/2024/day/18) | RAM Run    | ⭐️ | ⭐️ | Python |
+| [Day 19](https://adventofcode.com/2024/day/19) | Linen Layout    | ⭐️ | ⭐️ | Python |
+| [Day 20](https://adventofcode.com/2024/day/20) | Race Condition    | ⭐️ | ⭐️ | Python |
+| [Day 21](https://adventofcode.com/2024/day/21) | Keypad Conundrum    | ⭐️ | ⭐️ | Python |
+| [Day 22](https://adventofcode.com/2024/day/22) | Monkey Market    |   |   | Python |
+| [Day 23](https://adventofcode.com/2024/day/23) | LAN Party    |   |   | Python |
+| [Day 24](https://adventofcode.com/2024/day/24) | Crossed Wires    |   |   | Python |
+| [Day 25](https://adventofcode.com/2024/day/25) | Code Chronicle    |   |   | Python |
