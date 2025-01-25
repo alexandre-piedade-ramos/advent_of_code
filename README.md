@@ -25,7 +25,7 @@
 | [Day 19](https://adventofcode.com/2024/day/19) | Linen Layout    | ⭐️ | ⭐️ | Python |
 | [Day 20](https://adventofcode.com/2024/day/20) | Race Condition    | ⭐️ | ⭐️ | Python |
 | [Day 21](https://adventofcode.com/2024/day/21) | Keypad Conundrum    | ⭐️ | ⭐️ | Python |
-| [Day 22](https://adventofcode.com/2024/day/22) | Monkey Market    |   |   | Python |
-| [Day 23](https://adventofcode.com/2024/day/23) | LAN Party    |   |   | Python |
-| [Day 24](https://adventofcode.com/2024/day/24) | Crossed Wires    |   |   | Python |
-| [Day 25](https://adventofcode.com/2024/day/25) | Code Chronicle    |   |   | Python |
+| [Day 22](https://adventofcode.com/2024/day/22) | Monkey Market    | TODO  | TODO  | Python |
+| [Day 23](https://adventofcode.com/2024/day/23) | LAN Party    |  TODO |  TODO | Python |
+| [Day 24](https://adventofcode.com/2024/day/24) | Crossed Wires    |  TODO | TODO  | Python |
+| [Day 25](https://adventofcode.com/2024/day/25) | Code Chronicle    |  TODO | TODO  | Python |
